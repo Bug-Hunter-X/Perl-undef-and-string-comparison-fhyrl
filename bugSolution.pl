@@ -1,0 +1,1 @@
+my $var = undef; if (defined($var) && $var eq 'some_value') { print "Condition met"; } else { print "Condition not met"; }
